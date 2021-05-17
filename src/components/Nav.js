@@ -1,23 +1,26 @@
 import React from "react";
+import { Link, useLocation } from "react-router-dom";
 
 function Nav() {
+const location = useLocation()
+
   return (
     <nav className="nav justify-content-center">
-      <ul className="nav justify-content-center border-bottom border-info mb-4">
+      <ul className="nav justify-content-center mb-2">
         <li className="nav-item">
-          <a className="nav-link text-info" href="#about-me">
+          <Link to="/" className= {location.pathname === "/" ? "nav-link border-bottom border-info text-info" : "nav-link text-info"} >
             About Me
-          </a>
+          </Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-info" href="#my-work">
+          <Link to="/my-work" className={location.pathname === "/my-work" ? "nav-link border-bottom border-info text-info" : "nav-link text-info"}>
             My Work
-          </a>
+          </Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-info" href="#contact">
+          <Link to="/contact" className={location.pathname === "/contact" ? "nav-link border-bottom border-info text-info" : "nav-link text-info"}>
             Contact Me
-          </a>
+          </Link>
         </li>
         <li className="nav-item">
           <a

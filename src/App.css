@@ -1,3 +1,28 @@
+#name {
+  font-family: 'Raleway', sans-serif;
+}
+
+#quote {
+  font-family: 'Italianno', cursive;
+  font-size: 30px;
+  line-height: 35px;
+}
+
+#speaker {
+  font-family: 'Arapey', serif;
+  font-size: 20px;
+  margin-top: -15px;
+}
+
+.background {
+  height: 400px;
+  width: 100%;
+  margin-bottom: 30px;
+  background-image: url(./images/sherwin-headshot-1.png);
+  background-repeat:no-repeat;
+  background-position: center;
+}
+
 .App {
   text-align: center;
 }
