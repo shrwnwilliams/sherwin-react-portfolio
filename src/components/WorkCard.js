@@ -1,12 +1,12 @@
 import React from "react";
 
-function WorkCard({ title, img, url }) {
+function WorkCard({ title, img, url, alt }) {
   return (
     <div>
       <p>
         <a href={url} target="blank">{title}</a>
       </p>
-      <img src={img} className="img-fluid" />
+      <img src={img} alt={alt} className="img-fluid work-img" />
     </div>
   );
 }

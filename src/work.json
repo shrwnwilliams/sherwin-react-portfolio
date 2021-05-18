@@ -2,37 +2,43 @@
     {
         "id": 1,
         "title": "cookbook",
-        "img": "",
-        "url": "https://intense-savannah-49257.herokuapp.com/"
+        "img": "https://i.imgur.com/8cfkgDZ.jpg",
+        "url": "https://intense-savannah-49257.herokuapp.com/",
+        "alt": "a person pouring spices into a pan full of food"
     },
     {
         "id": 2,
         "title": "Poketrade",
-        "img": "",
-        "url": "https://vharris113.github.io/poketrade/"
+        "img": "https://i.imgur.com/xjMWUnk.jpg",
+        "url": "https://vharris113.github.io/poketrade/",
+        "alt": "a person holding a handful of pokemon cards"
     },
     {
         "id": 3,
         "title": "Work Day Scheduler",
-        "img": "",
-        "url": "https://shrwnwilliams.github.io/work-day-planner/"
+        "img": "https://i.imgur.com/HCTKUeW.jpg",
+        "url": "https://shrwnwilliams.github.io/work-day-planner/",
+        "alt": "a planner laying on a table"
     },
     {
         "id": 4,
         "title": "Password Generator",
-        "img": "",
-        "url": "https://shrwnwilliams.github.io/random-password-generator/"
+        "img": "https://i.imgur.com/hARvuZk.jpg",
+        "url": "https://shrwnwilliams.github.io/random-password-generator/",
+        "alt": "the word password with a lock next to it"
     },
     {
         "id": 5,
         "title": "Something",
         "img": "",
-        "url": ""
+        "url": "",
+        "alt": ""
     },
     {
         "id": 6,
         "title": "Else",
         "img": "",
-        "url": ""
+        "url": "",
+        "alt": ""
     }
 ]

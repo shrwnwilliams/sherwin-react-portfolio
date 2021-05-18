@@ -23,6 +23,12 @@
   background-position: center;
 }
 
+.work-img {
+  border-radius: 40px;
+  /* max-width: 500px; */
+  max-height: 300px;
+}
+
 .App {
   text-align: center;
 }
