@@ -29,16 +29,16 @@
     },
     {
         "id": 5,
-        "title": "Something",
-        "img": "",
-        "url": "",
-        "alt": ""
+        "title": "Workout Tracker",
+        "img": "https://i.imgur.com/XX5PAdc.png",
+        "url": "https://still-wildwood-46628.herokuapp.com",
+        "alt": "a woman sitting next to a dumbbell"
     },
     {
         "id": 6,
-        "title": "Else",
-        "img": "",
-        "url": "",
-        "alt": ""
+        "title": "Node Team Profile Generator",
+        "img": "https://i.imgur.com/rBvBa9c.png",
+        "url": "https://github.com/shrwnwilliams/team-profile-generator",
+        "alt": "a group of people sitting around a table with laptops"
     }
 ]
