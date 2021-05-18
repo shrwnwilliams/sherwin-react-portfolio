@@ -9,7 +9,7 @@ function Header() {
             <h1 className="text-center" id="name">Sherwin James Williams</h1>
             <Nav />
             <Quote />
-            <Face />
+            {/* <Face /> */}
         </header>
     )
 }
