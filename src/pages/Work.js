@@ -6,7 +6,7 @@ function Work() {
     
 
   return (
-    <div className="container text-center">
+    <div className="container text-center mt-5">
       <div className="row mb-2">
         <div className="col">
           <WorkCard title={WorkInfo[0].title} img={WorkInfo[0].img} url={WorkInfo[0].url} alt={WorkInfo[0].alt} />

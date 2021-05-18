@@ -2,28 +2,28 @@
     {
         "id": 1,
         "title": "cookbook",
-        "img": "https://i.imgur.com/8cfkgDZ.jpg",
+        "img": "https://i.imgur.com/XF7Qkz3.png",
         "url": "https://intense-savannah-49257.herokuapp.com/",
         "alt": "a person pouring spices into a pan full of food"
     },
     {
         "id": 2,
         "title": "Poketrade",
-        "img": "https://i.imgur.com/xjMWUnk.jpg",
+        "img": "https://i.imgur.com/YISOYhD.png",
         "url": "https://vharris113.github.io/poketrade/",
         "alt": "a person holding a handful of pokemon cards"
     },
     {
         "id": 3,
         "title": "Work Day Scheduler",
-        "img": "https://i.imgur.com/HCTKUeW.jpg",
+        "img": "https://i.imgur.com/9dlovNz.png",
         "url": "https://shrwnwilliams.github.io/work-day-planner/",
         "alt": "a planner laying on a table"
     },
     {
         "id": 4,
         "title": "Password Generator",
-        "img": "https://i.imgur.com/hARvuZk.jpg",
+        "img": "https://i.imgur.com/RjhLlqL.png",
         "url": "https://shrwnwilliams.github.io/random-password-generator/",
         "alt": "the word password with a lock next to it"
     },
