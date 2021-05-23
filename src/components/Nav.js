@@ -21,14 +21,14 @@ function Nav() {
         </li>
         <li className="nav-item">
           <Link
-            to="/my-work"
+            to="/my-portfolio"
             className={
-              location.pathname === "/my-work"
+              location.pathname === "/my-portfolio"
                 ? "nav-link border-bottom border-info text-info"
                 : "nav-link text-info"
             }
           >
-            My Work
+            Portfolio
           </Link>
         </li>
         <li className="nav-item">

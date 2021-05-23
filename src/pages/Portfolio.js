@@ -2,7 +2,7 @@ import React from "react";
 import Project from "../components/Project";
 import WorkInfo from "../work.json";
 
-function Work() {
+function Portfolio() {
   return (
     <div className="container text-center mt-3">
       <div className="border-bottom border-info mb-3">
@@ -66,4 +66,4 @@ function Work() {
   );
 }
 
-export default Work;
+export default Portfolio;

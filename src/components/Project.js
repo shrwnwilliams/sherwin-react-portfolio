@@ -1,6 +1,6 @@
 import React from "react";
 
-function WorkCard({ title, img, url, alt }) {
+function Project({ title, img, url, alt }) {
   return (
     <div>
       <p>
@@ -14,4 +14,4 @@ function WorkCard({ title, img, url, alt }) {
   );
 }
 
-export default WorkCard;
+export default Project;

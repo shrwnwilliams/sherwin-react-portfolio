@@ -4,7 +4,7 @@ import React from 'react';
 import Header from "./components/Header"
 import {BrowserRouter as HashRouter, Route } from "react-router-dom";
 import About from "./pages/About";
-import Work from "./pages/Work";
+import Portfolio from "./pages/Portfolio";
 import Footer from './components/Footer';
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
       <Header />
       <body className="container">
       <Route exact path ="/" component={About} />
-      <Route exact path="/my-work" component={Work} />
+      <Route exact path="/my-portfolio" component={Portfolio} />
       </body>
       <Footer />
     </HashRouter>
