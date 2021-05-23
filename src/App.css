@@ -43,3 +43,7 @@
   pointer-events: none;
 }
 
+.contact:hover {
+  border-bottom: 1px #5bc0de solid;
+
+}

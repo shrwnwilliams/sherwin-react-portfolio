@@ -1,5 +1,5 @@
 import React from "react";
-import WorkCard from "../components/WorkCard";
+import Project from "../components/Project";
 import WorkInfo from "../work.json";
 
 function Work() {
@@ -10,7 +10,7 @@ function Work() {
       </div>
       <div className="row mb-2">
         <div className="col">
-          <WorkCard
+          <Project
             title={WorkInfo[0].title}
             img={WorkInfo[0].img}
             url={WorkInfo[0].url}
@@ -18,7 +18,7 @@ function Work() {
           />
         </div>
         <div className="col">
-          <WorkCard
+          <Project
             title={WorkInfo[1].title}
             img={WorkInfo[1].img}
             url={WorkInfo[1].url}
@@ -28,7 +28,7 @@ function Work() {
       </div>
       <div className="row mb-2">
         <div className="col">
-          <WorkCard
+          <Project
             title={WorkInfo[2].title}
             img={WorkInfo[2].img}
             url={WorkInfo[2].url}
@@ -36,7 +36,7 @@ function Work() {
           />
         </div>
         <div className="col">
-          <WorkCard
+          <Project
             title={WorkInfo[3].title}
             img={WorkInfo[3].img}
             url={WorkInfo[3].url}
@@ -46,7 +46,7 @@ function Work() {
       </div>
       <div className="row mb-2">
         <div className="col">
-          <WorkCard
+          <Project
             title={WorkInfo[4].title}
             img={WorkInfo[4].img}
             url={WorkInfo[4].url}
@@ -54,7 +54,7 @@ function Work() {
           />
         </div>
         <div className="col">
-          <WorkCard
+          <Project
             title={WorkInfo[5].title}
             img={WorkInfo[5].img}
             url={WorkInfo[5].url}

@@ -32,18 +32,6 @@ function Nav() {
           </Link>
         </li>
         <li className="nav-item">
-          <Link
-            to="/contact"
-            className={
-              location.pathname === "/contact"
-                ? "nav-link border-bottom border-info text-info"
-                : "nav-link text-info"
-            }
-          >
-            Contact Me
-          </Link>
-        </li>
-        <li className="nav-item">
           <a
             className="nav-link text-info"
             href="https://drive.google.com/file/d/1po010mmQC0JZJWGmxIqeJZQ2g3nFksJe/view?usp=sharing"

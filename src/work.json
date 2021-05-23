@@ -3,35 +3,35 @@
         "id": 1,
         "title": "cookbook",
         "img": "https://i.imgur.com/XF7Qkz3.png",
-        "url": "https://intense-savannah-49257.herokuapp.com/",
+        "url": "https://github.com/henderson2350/cookbook",
         "alt": "a person pouring spices into a pan full of food"
     },
     {
         "id": 2,
         "title": "Poketrade",
         "img": "https://i.imgur.com/YISOYhD.png",
-        "url": "https://vharris113.github.io/poketrade/",
+        "url": "https://github.com/VHarris113/poketrade",
         "alt": "a person holding a handful of pokemon cards"
     },
     {
         "id": 3,
         "title": "Work Day Scheduler",
         "img": "https://i.imgur.com/9dlovNz.png",
-        "url": "https://shrwnwilliams.github.io/work-day-planner/",
+        "url": "https://github.com/shrwnwilliams/work-day-planner",
         "alt": "a planner laying on a table"
     },
     {
         "id": 4,
         "title": "Password Generator",
         "img": "https://i.imgur.com/RjhLlqL.png",
-        "url": "https://shrwnwilliams.github.io/random-password-generator/",
+        "url": "https://github.com/shrwnwilliams/random-password-generator",
         "alt": "the word password with a lock next to it"
     },
     {
         "id": 5,
         "title": "Workout Tracker",
         "img": "https://i.imgur.com/XX5PAdc.png",
-        "url": "https://still-wildwood-46628.herokuapp.com",
+        "url": "https://github.com/shrwnwilliams/workout-tracker",
         "alt": "a woman sitting next to a dumbbell"
     },
     {

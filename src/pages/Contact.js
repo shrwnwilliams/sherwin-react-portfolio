@@ -26,7 +26,7 @@ function Contact() {
           <a
             class="nav-link text-info"
             href="https://www.linkedin.com/in/sherwin-williams-08981a207/"
-            target="_blank"
+            target="blank"
           >
             <h3>LinkedIn</h3>
           </a>
