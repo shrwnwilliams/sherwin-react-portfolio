@@ -37,7 +37,7 @@ function Nav() {
             href="https://docs.google.com/document/d/1RQVeaIfynX7zGnie98rySi9rzdIpw6N9fOzDZaoYwk0/edit?usp=sharing"
             target="blank"
           >
-            Resume
+            Resumé
           </a>
         </li>
       </ul>
