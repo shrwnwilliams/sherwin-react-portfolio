@@ -31,7 +31,7 @@ function Nav() {
             Portfolio
           </Link>
         </li>
-        <li className="nav-item">
+        {/* <li className="nav-item">
           <a
             className="nav-link text-info"
             href="https://drive.google.com/file/d/1-Vb5so_5KrC_fE990X08zhSHkIvMREw7/view?usp=sharing"
@@ -39,7 +39,7 @@ function Nav() {
           >
             Resume
           </a>
-        </li>
+        </li> */}
       </ul>
     </nav>
   );
