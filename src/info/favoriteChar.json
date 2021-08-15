@@ -2,13 +2,14 @@
     {
         "id": 1,
         "name": "Jalana Karen Astoria",
-        "image": "",
-        "info": ""
+        "img": "https://i.imgur.com/ZRyaHZN.png",
+        "img2": "https://i.imgur.com/0tq5Yum.png",
+        "info": "'Danger is my middle name; but I spell it Karen.' "
     },
     {
         "id": 2,
         "name": "Dhukzel Khigados",
-        "image": "",
+        "img": "",
         "info": ""
-    },
+    }
 ]
