@@ -1,5 +1,7 @@
 import React from "react";
 import Face from "../components/Face";
+import DnDCard from "../components/DnDCard"
+import DnDInfo from "../info/favoriteChar.json"
 
 function About() {
   return (
@@ -21,6 +23,12 @@ function About() {
           pursue a career as a web developer. If you like what you see, please
           feel free to reach out to me in any of the methods provided!
         </p>
+      </section>
+      <section className="text-center">
+      <div className="border-bottom border-info">
+          <h2 className="mb-3">More About Me</h2>
+        </div>
+        <DnDCard name={DnDInfo[0].name} img={DnDInfo[0].img}/>
       </section>
     </div>
   );
