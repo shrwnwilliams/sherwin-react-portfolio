@@ -5,7 +5,7 @@ function DndCard({name, img, id, story, egg}) {
     <div className="card">
       <img className="card-img-top img-thumbnail" src={img} alt={name} />
       <div className="card-header h3">{name}</div>
-      <div className="card-body">Hello</div>
+      <div className="card-body">{story}</div>
     </div>
   );
 }
