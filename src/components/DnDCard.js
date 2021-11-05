@@ -1,13 +1,11 @@
 import React from "react";
 
-function DndCard({name, img, id, story}) {
+function DndCard({name, img, id, story, egg}) {
   return (
     <div className="card">
       <img className="card-img-top img-thumbnail" src={img} alt={name} />
       <div className="card-header h3">{name}</div>
-      <div className="card-body">
-      <p className="card-text">{story}</p>
-      </div>
+      <div className="card-body">{story}</div>
     </div>
   );
 }

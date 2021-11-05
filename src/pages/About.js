@@ -28,7 +28,7 @@ function About() {
       <div className="border-bottom border-info">
           <h2 className="mb-3">More About Me</h2>
         </div>
-        <DnDCard name={DnDInfo[0].name} img={DnDInfo[0].img}/>
+        <DnDCard name={DnDInfo[0].name} img={DnDInfo[0].img} story={DnDInfo[0].story}/>
       </section>
     </div>
   );
