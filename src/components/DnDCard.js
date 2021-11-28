@@ -10,4 +10,6 @@ function DndCard({name, img, id, story, egg}) {
   );
 }
 
+// 19-16 for D&D card map
+
 export default DndCard;
