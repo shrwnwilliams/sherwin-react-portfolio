@@ -34,8 +34,7 @@ function Nav() {
         <li className="nav-item">
           <a
             className="nav-link text-info"
-            href="https://drive.google.com/file/d/1-Vb5so_5KrC_fE990X08zhSHkIvMREw7/view?usp=sharing"
-            target="blank"
+            href="https://docs.google.com/document/d/1RQVeaIfynX7zGnie98rySi9rzdIpw6N9fOzDZaoYwk0/edit?usp=sharing"
           >
             Resume
           </a>
