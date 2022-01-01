@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/sherwin-react-portfolio/static/css/main.7837a1d7.chunk.css",
-    "main.js": "/sherwin-react-portfolio/static/js/main.4a0e4be3.chunk.js",
-    "main.js.map": "/sherwin-react-portfolio/static/js/main.4a0e4be3.chunk.js.map",
-    "runtime-main.js": "/sherwin-react-portfolio/static/js/runtime-main.db10ebb3.js",
-    "runtime-main.js.map": "/sherwin-react-portfolio/static/js/runtime-main.db10ebb3.js.map",
+    "main.js": "/sherwin-react-portfolio/static/js/main.8893dfd5.chunk.js",
+    "main.js.map": "/sherwin-react-portfolio/static/js/main.8893dfd5.chunk.js.map",
+    "runtime-main.js": "/sherwin-react-portfolio/static/js/runtime-main.7e33352b.js",
+    "runtime-main.js.map": "/sherwin-react-portfolio/static/js/runtime-main.7e33352b.js.map",
     "static/js/2.efb14205.chunk.js": "/sherwin-react-portfolio/static/js/2.efb14205.chunk.js",
     "static/js/2.efb14205.chunk.js.map": "/sherwin-react-portfolio/static/js/2.efb14205.chunk.js.map",
-    "static/js/3.455be27f.chunk.js": "/sherwin-react-portfolio/static/js/3.455be27f.chunk.js",
-    "static/js/3.455be27f.chunk.js.map": "/sherwin-react-portfolio/static/js/3.455be27f.chunk.js.map",
+    "static/js/3.fe8c08ef.chunk.js": "/sherwin-react-portfolio/static/js/3.fe8c08ef.chunk.js",
+    "static/js/3.fe8c08ef.chunk.js.map": "/sherwin-react-portfolio/static/js/3.fe8c08ef.chunk.js.map",
     "index.html": "/sherwin-react-portfolio/index.html",
     "static/css/main.7837a1d7.chunk.css.map": "/sherwin-react-portfolio/static/css/main.7837a1d7.chunk.css.map",
     "static/js/2.efb14205.chunk.js.LICENSE.txt": "/sherwin-react-portfolio/static/js/2.efb14205.chunk.js.LICENSE.txt",
     "static/media/App.css": "/sherwin-react-portfolio/static/media/sherwin-headshot-1.e6e9c0ed.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.db10ebb3.js",
+    "static/js/runtime-main.7e33352b.js",
     "static/js/2.efb14205.chunk.js",
     "static/css/main.7837a1d7.chunk.css",
-    "static/js/main.4a0e4be3.chunk.js"
+    "static/js/main.8893dfd5.chunk.js"
   ]
 }
